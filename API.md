@@ -4,11 +4,11 @@ Restituisce il file sito.html dove effettuare l'accesso su Facebook via OAuth.
 
 * **URL**
 
-`/`
+	`/`
 
 * **METHOD**
 
-`GET`
+	`GET`
 
 * **SUCCESS RESPONSE**
 
@@ -21,11 +21,11 @@ Combinato con il code dell'OAuth di Facebook restituisce la pagina dove selezion
 
 * **URL**
 
-`/token`
+	`/token`
 
 * **METHOD**
 
-`GET`
+	`GET`
 
 * **URL PARAMS**
 
@@ -43,11 +43,11 @@ Combinato con l'access token di Facebook e il paramentro `Message` contenente l'
 
 * **URL**
 
-`/api`
+	`/api`
 
 * **METHOD**
 
-`GET`
+	`GET`
 
 * **URL PARAMS**
 
