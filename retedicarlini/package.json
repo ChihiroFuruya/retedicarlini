@@ -1,0 +1,13 @@
+{
+  "name": "helloworld",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+	  "express": "4.2.x",
+	  "request": "2.9.x",
+	  "fb" : "0.7.3",
+	  "fs" : "0.0.2",
+	  "amqplib": "0.5.1"
+	  
+  }
+}
